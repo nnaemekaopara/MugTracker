@@ -1,0 +1,29 @@
+h1
+{
+    text-align: Center;
+    background:paleturquoise;
+    color: darkgoldenrod;
+    font-family:'Roboto Slab', serif;
+}
+li
+{float: left;
+padding-left:20px;
+}
+h2{
+    text-align: center;
+text-decoration-color: chocolate;
+    color: darkgoldenrod;
+
+}
+image{
+    max-width: 30%;
+    max-height: 30;
+}
+
+body{
+    background:lightskyblue;
+    font-family: inherit;
+}
+footer{
+    background:steelblue;
+}
